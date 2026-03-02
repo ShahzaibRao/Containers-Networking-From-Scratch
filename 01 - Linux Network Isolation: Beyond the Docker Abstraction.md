@@ -5,6 +5,7 @@ Most DevOps engineers use containers every day without truly understanding how t
 This guide removes Docker and Kubernetes from the picture and builds everything directly using Linux primitives.
 
 ---
+<img src="https://storage.raoshahzaib.site/container/Linux_Namespaces_and_VETH_Pairs.png" alt="Linux Namespaces and VETH Pairs.png" width=100% />
 
 # The Illusion of the Container
 
@@ -511,6 +512,8 @@ $ ip netns list
 No output means cleanup successful.
 
 ---
+<img src="https://storage.raoshahzaib.site/container/Linux_Network_Isolation.mp4" alt="Linux_Network_Isolation.mp4" width=100% />
+
 
 # Conclusion
 
