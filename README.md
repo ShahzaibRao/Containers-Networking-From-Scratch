@@ -193,24 +193,6 @@ sudo apt install -y iproute2 tcpdump bridge-utils iptables conntrack
 
 ---
 
-## ✨ Suggested Repository Names
-
-Looking for a catchier name? Here are some alternatives:
-
-| Name | Vibe |
-|------|------|
-| **`linux-net-internals`** | Clean, professional, searchable |
-| **`packet-journey`** | Storytelling — follows a packet's path through the kernel |
-| **`under-the-wire`** | Catchy, implies deep investigation |
-| **`netcraft`** | Short, memorable, "crafting networks" |
-| **`bare-metal-networking`** | Emphasizes the raw, no-abstraction approach |
-| **`kernel-net-lab`** | Highlights the hands-on lab aspect |
-| **`container-net-deep-dive`** | Descriptive with the "deep dive" hook |
-| **`the-packet-path`** | Evocative — every article traces where packets go |
-| **`netns-mastery`** | Technical and specific to the core tool used |
-| **`zero-to-packet`** | "Zero to hero" style, implies building from nothing |
-
----
 
 ## 🤝 Contributing
 
