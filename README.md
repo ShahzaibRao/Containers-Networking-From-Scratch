@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🔬 Container Networking From Scratch
 
@@ -159,7 +159,7 @@ graph LR
     style K fill:#e17055,stroke:#e17055,color:#fff
 ```
 
-> **📌 Read in order.** Each article builds directly on concepts and lab environments from the previous one. Skipping ahead will leave gaps in understanding.
+> **📌 Read in order.** Each article builds directly on concepts and lab environments from the previous one. Skipping ahead will leave gaps in your understanding.
 
 ---
 
@@ -193,7 +193,7 @@ sudo apt install -y iproute2 tcpdump bridge-utils iptables conntrack
 
 ---
 
-## ⭐ Suggested Repository Names
+## ✨ Suggested Repository Names
 
 Looking for a catchier name? Here are some alternatives:
 
@@ -236,4 +236,3 @@ This project is open source and available under the [MIT License](LICENSE).
 *Built with frustration from debugging production networking at 3 AM* 🌙
 
 </div>
-]]>
