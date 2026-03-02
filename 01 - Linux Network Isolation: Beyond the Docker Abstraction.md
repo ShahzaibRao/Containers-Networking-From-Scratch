@@ -5,7 +5,7 @@ Most DevOps engineers use containers every day without truly understanding how t
 This guide removes Docker and Kubernetes from the picture and builds everything directly using Linux primitives.
 
 ---
-![Linux Namespaces and VETH Pairs](source/images/linux-namespaces-and-veth-pairs.png)
+![Linux Namespaces and VETH Pairs](sources/images/Linux%20Namespaces%20and%20VETH%20Pairs.png)
 # The Illusion of the Container
 
 There is no such thing as a "container" inside the Linux kernel.
