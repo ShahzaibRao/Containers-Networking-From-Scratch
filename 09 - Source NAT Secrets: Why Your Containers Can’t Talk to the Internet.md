@@ -15,6 +15,7 @@ This guide shows:
 All steps include real commands and example outputs.
 
 ---
+![Mastering Source NAT for Containers](sources/assets/images/Mastering%20Source%20NAT%20for%20Containers.png)
 
 # The Bridge Between Private and Public
 
