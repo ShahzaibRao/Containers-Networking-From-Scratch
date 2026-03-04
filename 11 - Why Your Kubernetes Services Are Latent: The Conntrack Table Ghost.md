@@ -5,6 +5,7 @@ Most engineers treat firewall rules like a simple list of IPs and ports. In real
 If you don’t understand how conntrack works, a traffic spike can silently break your cluster — with no useful application logs.
 
 ---
+![Linux Conntrack Network Security Overview](sources/assets/images/Linux%20Conntrack%20Network%20Security%20Overview.png)
 
 # The Memory of the Linux Kernel
 
@@ -27,6 +28,7 @@ Without conntrack:
 Conntrack is essentially a **kernel-level cache of active flows**.
 
 ---
+![Linux Conntrack Docker Networking Explained](sources/assets/images/Linux%20Conntrack%20Docker%20Networking%20Explained.png)
 
 # Lab Setup
 
