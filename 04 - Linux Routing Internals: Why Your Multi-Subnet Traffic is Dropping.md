@@ -13,6 +13,7 @@ We will:
 Everything includes real terminal commands and expected outputs so you can follow along.
 
 ---
+![Linux ARP and Routing Tables](sources/assets/images/Linux%20ARP%20and%20Routing%20Tables.png)
 
 # The Traffic Controller of the Modern Cloud
 
