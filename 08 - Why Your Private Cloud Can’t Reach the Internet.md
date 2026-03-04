@@ -7,6 +7,7 @@ Most DevOps engineers can configure a VPC, but when packets get dropped at the e
 This guide explains NAT and PAT using a real Linux lab with commands and outputs so you can see exactly what is happening.
 
 ---
+![NAT and PAT Network Infographic](sources/assets/images/NAT%20and%20PAT%20Network%20Infographic.png)
 
 # The Translator of the Modern Network
 
