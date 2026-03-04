@@ -2,6 +2,9 @@
 
 Most DevOps engineers think typing -p 8080:80 is a simple port map, but they have no idea that the Linux kernel is actually performing a high-speed surgical strike on every incoming packet header. If you don't understand the PREROUTING hooks and DNAT transformations, you’re just one iptables conflict away from losing all external traffic to your containers.
 
+---
+![Destination NAT and Port Forwarding](sources/assets/images/Destination%20NAT%20and%20Port%20Forwarding.png)
+
 ## The Entry Point to the Private Network
 
 When you run a container on a private subnet, it is effectively invisible to the outside world. This is by design. However, at some point, that service needs to be useful, which means it needs to accept traffic from the internet or other parts of your infrastructure. This creates a fundamental networking problem: an external client knows your host's public IP, but it has no idea that Nginx is running inside a namespace at 172.17.0.2.
