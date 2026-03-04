@@ -13,6 +13,7 @@ We will use:
 Every step includes terminal commands and example outputs so you can relate theory to reality.
 
 ---
+![Docker Networking and Iptables Architecture](sources/assets/images/Docker%20Networking%20and%20Iptables%20Architecture.png)
 
 # The Illusion of Connectivity
 
