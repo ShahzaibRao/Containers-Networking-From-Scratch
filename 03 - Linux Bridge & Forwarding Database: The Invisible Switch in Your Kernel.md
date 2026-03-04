@@ -7,6 +7,7 @@ Most engineers treat the bridge as a black box. In production, that black box is
 This guide exposes what actually happens inside the Linux kernel.
 
 ---
+![How a Linux Bridge Works](sources/assets/images/How%20a%20Linux%20Bridge%20Works.png)
 
 # The Virtual Core of Modern Networking
 
