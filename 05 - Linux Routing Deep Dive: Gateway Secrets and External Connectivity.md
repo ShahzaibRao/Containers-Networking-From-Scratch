@@ -13,6 +13,7 @@ This guide walks step-by-step through:
 All commands include example outputs so you can follow and compare with your own lab.
 
 ---
+![Linux Routing Namespace to World](sources/assets/images/Linux%20Routing%20Namespace%20to%20World.png)
 
 # The Invisible Hand of the Gateway
 
