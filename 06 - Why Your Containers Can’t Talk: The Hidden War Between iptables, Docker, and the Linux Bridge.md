@@ -13,6 +13,7 @@ It is the interaction between:
 This guide builds everything manually so you can see exactly what is happening.
 
 ---
+![Docker Impact on Linux iptables](sources/assets/images/Docker%20Impact%20onLinux%20iptables.png)
 
 # The Gatekeeper of the Linux Kernel
 
