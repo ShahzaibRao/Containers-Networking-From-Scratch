@@ -7,6 +7,7 @@ If you cannot clearly explain how Layer 3 (IP) becomes Layer 2 (MAC), you are gu
 This guide demonstrates the full ARP resolution process using Linux Network Namespaces and VETH pairs — exactly the same primitives used by Docker and Kubernetes.
 
 ---
+![How ARP Finds Network Neighbours](sources/assets/images/How%20ARP%20Finds%20Network%20Neighbours.png)
 
 # The Bridge Between Layers
 
